@@ -1,0 +1,7 @@
+sshkey
+sshkey.pub
+id_rsa
+*.pem
+*.key
+*.pub
+*.ssh
